@@ -5,6 +5,7 @@ Palindrom adalah sebuah kata, frasa, angka maupun susunan lainnya yang dapat dib
 Program PYTHON-PALINDROM ini meminta pengguna untuk string karakter atau kata. Ia memeriksa input pengguna, menjalankan pemeriksaan palindrom, dan memberi tahu pengguna apakah string yang dimasukkan adalah palindrom atau tidak.
 
 Untuk menjalankan program ketikan diterminal:
+
 python palindrom.py
 
 Contoh kata palindrom
